@@ -1,0 +1,67 @@
+.container2{
+    margin: 0;
+    padding: 0;
+   box-shadow: rgba(173, 25, 25, 0.35) 0px 5px 15px;
+   width: 25rem;
+   height:30rem
+   
+}
+.Heading{
+    font-weight: 500;
+    padding-top: 30px;
+}
+.label{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.form-control{
+    
+        width:  300px; 
+        margin: auto; 
+  
+}
+.btn2{
+    margin-top: 30px;
+}
+.Paragraph {
+    font-size: 16px;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .Paragraph a {
+    color: #007bff;
+    text-decoration: none; 
+    margin-left: 5px; 
+  }
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .google-btn {
+    background-color: #DB4437;
+    color: white;
+  }
+  
+  
+  .gender{
+      margin-right: 20px;
+      font-size: 20px;
+  }
+  .btn{
+    width: 20rem;
+    background-color: #007bff;
+    color: aliceblue;
+    border-radius: 8px solid blue;
+    font-size: 20px;
+    font-weight: 200px;
+  }
+  .btn:hover{
+    background-color: yellow;
+  }
+  
